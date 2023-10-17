@@ -16,3 +16,5 @@ function alert() {
   body.style.background = colors[counter++];
   if (counter > colors.length - 1) counter = 0;
 }
+
+// finish
